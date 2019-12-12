@@ -12,4 +12,7 @@ Vue.use(chart)
 
 然后可以在组件中直接使用
 
-eg: <piechart></piechart> 来直接使用组件
+eg:
+```
+ <piechart></piechart> 来直接使用组件
+ ```
